@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **tonn1147/tonn1147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
