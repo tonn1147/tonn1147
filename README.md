@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/tonn1147/BikeHanoi">Bike Hanoi</a> and <a href="https://github.com/tonn1147/PieShop">Pie Shops</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/tonn1147/BikeHanoi">Bike Hanoi</a> and <a href="https://github.com/tonn1147/Xplorer">Xplore</a>.</li>
 <li>🧐 Learning about <strong>Microservice architechture</strong>, <strong>Database design</strong>, <strong>database optimization</strong> and have interest in <strong>Microservices</strong> .</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/tonn1147">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://www.linkedin.com/in/tran-anh-ab3a46264/">my linkin</a> you can check these out for more knowledge.</li>
